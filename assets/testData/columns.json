@@ -1,0 +1,79 @@
+{
+	"type": "view",
+	"title": "Kunden Info",
+	"menu": [
+		{
+			"id": "testItem",
+			"title": "Zuckück ..",
+			"callAction": "jump_to_1.json"
+		},
+		{
+			"id": "test2Item",
+			"title": "Kunden Info",
+			"callAction": "customerInfo.json"
+		}
+	],
+	"widgets": [
+		{
+			"id": "qwert",
+			"widgetType": "Columns",
+			"columns": [
+				{
+					"widgets": [
+						{
+							"id": "4",
+							"widgetType": "Label",
+				      		"text": "Eins"
+						},
+						{
+							"id": "CustomerInfoListButton",
+							"widgetType": "CallButton",
+							"callAction": "jump_back_1.json",
+							"text": "Back 1",
+							"backgroundColor": "#FF0000"
+						},
+						{
+							"id": "CustomerInfoListButton",
+							"widgetType": "CallButton",
+							"callAction": "jump_back_2.json",
+							"text": "Back 2",
+							"backgroundColor": "#FF0000"
+						}
+					]
+				},
+				{
+					"widgets": [
+						{
+							"id": "5",
+							"widgetType": "Label",
+				      		"text": "Zwei"
+						},
+						{
+							"id": "CustomerInfoListButton",
+							"widgetType": "CallButton",
+							"callAction": "jump_to_1.json",
+							"backgroundColor": "#AAAAAA",
+							"text": "To 1"
+						}
+					]
+				},
+				{
+					"widgets": [
+						{
+							"id": "6",
+							"widgetType": "Label",
+				      		"text": "Drei"
+						},
+						{
+							"id": "Button",
+							"widgetType": "FavButton",
+							"callAction": "jump.json",
+							"backgroundColor": "#444444",
+							"text": "Drei"
+						}
+					]
+				}
+			]
+		}
+	]
+}

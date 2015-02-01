@@ -1,0 +1,206 @@
+{
+    "type":"dataSource",
+    "widgets":[
+        {
+            "id":"9783897214217",
+            "widgetType":"Group",
+            "clickAction": "books/9783897214217.json",
+            "widgets":[
+                {
+                    "id":"11",
+                    "widgetType":"Label",
+                    "text":"Entwurfsmuster",
+                    "emphasized":true
+                },
+				{
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"von Kopf bis Fuß"
+        		},
+				{
+                    "id":"12",
+                    "widgetType":"LabelValuePair",
+                    "type":"TEXT",
+                    "label":"Autoren:",
+                    "labelWidth":5,
+                    "value":"Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates"
+
+                },
+				{
+                    "id":"12",
+                    "widgetType":"LabelValuePair",
+                    "type":"TEXT",
+                    "label":"Preis:",
+                    "labelWidth":5,
+                    "value":"48,00 Euro"
+				}
+			]
+        },
+        {
+            "id":"9780981531601",
+            "widgetType":"Group",
+            "clickAction": "books/9780981531601.json",
+            "widgets":[
+                {
+                    "id":"11",
+                    "widgetType":"Label",
+                    "text":"Programming in Scala",
+                    "emphasized":true
+                },
+				{
+                    "id":"12",
+                    "widgetType":"LabelValuePair",
+                    "type":"TEXT",
+                    "label":"Autor:",
+                    "labelWidth":5,
+                    "value":"Martin Odersky"
+
+                },
+				{
+                    "id":"12",
+                    "widgetType":"LabelValuePair",
+                    "type":"TEXT",
+                    "label":"Preis:",
+                    "labelWidth":5,
+                    "value":"43,42 Euro"
+				}
+			]
+        },
+		{
+			"id":"9783898645836",
+			"widgetType":"Group",
+			"clickAction": "books/9783898645836.json",
+			"widgets":[
+		        {
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"REST und HTTP",
+		            "emphasized":true
+		        },
+				{
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Entwicklung und Integration nach dem Architekturstil des Web"
+		        },
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Autor:",
+					"labelWidth":5,
+					"value":"Stefan Tilkov"
+				},
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Preis:",
+					"labelWidth":5,
+					"value":"36,90 Euro"
+				}
+			]
+        },
+		{
+			"id":"9783898655785",
+			"widgetType":"Group",
+			"clickAction": "books/9783898644785.json",
+			"widgets":[
+		        {
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Scrum",
+		            "emphasized":true
+		        },
+				{
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Agiles Projektmanagement erfolgreich einsetzen"
+		        },
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Autor:",
+					"labelWidth":5,
+					"value":"Roman Pichler"
+				},
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Preis:",
+					"labelWidth":5,
+					"value":"29,00 Euro"
+				}
+			]
+        },
+		{
+			"id":"9783826655487",
+			"widgetType":"Group",
+			"clickAction": "books/9783826655487.json",
+			"widgets":[
+		        {
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Clean Code",
+		            "emphasized":true
+		        },
+				{
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Refactoring, Patterns, Testen und Techniken für sauberen Code"
+		        },
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Autor:",
+					"labelWidth":5,
+					"value":"Robert C. Martin"
+				},
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Preis:",
+					"labelWidth":5,
+					"value":"39,95 Euro"
+				}
+			]
+        },
+		{
+			"id":"9783898426138",
+			"widgetType":"Group",
+			"clickAction": "books/9783898426138.json",
+			"widgets":[
+		        {
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Struts 1.2",
+		            "emphasized":true
+		        },
+				{
+		            "id":"11",
+		            "widgetType":"Label",
+		            "text":"Ein Tutorial für Java-Entwickler"
+		        },
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Autor:",
+					"labelWidth":5,
+					"value":"Stephan Wiesner"
+				},
+				{
+					"id":"12",
+					"widgetType":"LabelValuePair",
+					"type":"TEXT",
+					"label":"Preis:",
+					"labelWidth":5,
+					"value":"24,90 Euro"
+				}
+			]
+		}
+    ]
+}

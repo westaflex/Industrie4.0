@@ -1,0 +1,510 @@
+{
+    "type":"dataSource",
+    "widgets":[
+        {
+            "id":"42182337",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"11",
+                    "widgetType":"Label",
+                    "text":"Extra Mango Melone",
+                    "emphasized":true
+                },
+                {
+                    "id":"12",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: ATA 1001"
+                },
+                {
+                	"id": "qwert",
+					"widgetType": "Columns",
+					"columns": [
+					{
+						"widgets": [
+							{
+								"id": "4",
+								"widgetType": "Label",
+					      		"text": "Eins"
+							},
+							{
+								"id": "CustomerInfoListButton",
+								"widgetType": "CallButton",
+								"callAction": "jump_back_1.json",
+								"text": "Back 1",
+								"backgroundColor": "#FF0000"
+							},
+							{
+								"id": "CustomerInfoListButton",
+								"widgetType": "CallButton",
+								"callAction": "jump_back_2.json",
+								"text": "Back 2",
+								"backgroundColor": "#FF0000"
+							}
+						]
+					},
+					{
+						"widgets": [
+							{
+								"id": "5",
+								"widgetType": "Label",
+					      		"text": "Zwei"
+							},
+							{
+								"id": "CustomerInfoListButton",
+								"widgetType": "CallButton",
+								"callAction": "jump_to_1.json",
+								"backgroundColor": "#AAAAAA",
+								"text": "To 1"
+							}
+						]
+					},
+					{
+						"widgets": [
+							{
+								"id": "6",
+								"widgetType": "Label",
+					      		"text": "Drei"
+							},
+							{
+								"id": "Button",
+								"widgetType": "FavButton",
+								"callAction": "jump.json",
+								"backgroundColor": "#444444",
+								"text": "Drei"
+							}
+						]
+					}
+					]
+				},
+                {
+                    "id":"12",
+                    "widgetType":"FavButton",
+                    "callAction": "pricelist.json"
+                },
+                {
+                    "id":"13",
+                    "widgetType":"Label",
+                    "text":"Preis: 99,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"4009900401937",
+            "widgetType":"Group",
+            "clickAction":"customerInfo.json",
+            "longClickAction":"customerInfo.json",
+            "widgets":[
+                {
+                    "id":"21",
+                    "widgetType":"Label",
+                    "text":"Extra white",
+                    "emphasized":true
+                },
+                {
+                    "id":"22",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AGAW 2001"
+                },
+                {
+                    "id":"23",
+                    "widgetType":"Label",
+                    "text":"Preis: 89,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"4106070110109",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"31",
+                    "widgetType":"Label",
+                    "text":"Wasser",
+                    "emphasized":true
+                },
+                {
+                    "id":"32",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AGE 1001"
+                },
+                {
+                    "id":"33",
+                    "widgetType":"Label",
+                    "text":"Preis: 94,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"4",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"41",
+                    "widgetType":"Label",
+                    "text":"Westersilent",
+                    "emphasized":true
+                },
+                {
+                    "id":"42",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: WS 1001"
+                },
+                {
+                    "id":"43",
+                    "widgetType":"Label",
+                    "text":"Preis: 199,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"5",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"51",
+                    "widgetType":"Label",
+                    "text":"QuadroSilent flach",
+                    "emphasized":true
+                },
+                {
+                    "id":"52",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: QSf 3031"
+                },
+                {
+                    "id":"53",
+                    "widgetType":"Label",
+                    "text":"Preis: 299,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"6",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"61",
+                    "widgetType":"Label",
+                    "text":"Akustische Überströmelement",
+                    "emphasized":true
+                },
+                {
+                    "id":"62",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AÜ 5001"
+                },
+                {
+                    "id":"63",
+                    "widgetType":"Label",
+                    "text":"Preis: 499,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"7",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"71",
+                    "widgetType":"Label",
+                    "text":"QuadroSilent",
+                    "emphasized":true
+                },
+                {
+                    "id":"72",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: QS 3005"
+                },
+                {
+                    "id":"73",
+                    "widgetType":"Label",
+                    "text":"Preis: 299,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"8",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"81",
+                    "widgetType":"Label",
+                    "text":"Quick Flexschlauch",
+                    "emphasized":true
+                },
+                {
+                    "id":"82",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: QF 7005"
+                },
+                {
+                    "id":"83",
+                    "widgetType":"Label",
+                    "text":"Preis: 8,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"9",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"91",
+                    "widgetType":"Label",
+                    "text":"Ansaugschalldämpfer",
+                    "emphasized":true
+                },
+                {
+                    "id":"92",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AS 7005"
+                },
+                {
+                    "id":"93",
+                    "widgetType":"Label",
+                    "text":"Preis: 39,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"10",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"101",
+                    "widgetType":"Label",
+                    "text":"Flexibles Edelstahlrohr",
+                    "emphasized":true
+                },
+                {
+                    "id":"102",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: FE 105"
+                },
+                {
+                    "id":"103",
+                    "widgetType":"Label",
+                    "text":"Preis: 59,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"2",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"21",
+                    "widgetType":"Label",
+                    "text":"Wärmeschutzrohr Typ AGAW",
+                    "emphasized":true
+                },
+                {
+                    "id":"22",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AGAW 2001"
+                },
+                {
+                    "id":"23",
+                    "widgetType":"Label",
+                    "text":"Preis: 89,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"3",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"31",
+                    "widgetType":"Label",
+                    "text":"Wärmeschutzrohr Typ AGE",
+                    "emphasized":true
+                },
+                {
+                    "id":"32",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AGE 1001"
+                },
+                {
+                    "id":"33",
+                    "widgetType":"Label",
+                    "text":"Preis: 94,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"4",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"41",
+                    "widgetType":"Label",
+                    "text":"Westersilent",
+                    "emphasized":true
+                },
+                {
+                    "id":"42",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: WS 1001"
+                },
+                {
+                    "id":"43",
+                    "widgetType":"Label",
+                    "text":"Preis: 199,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"5",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"51",
+                    "widgetType":"Label",
+                    "text":"QuadroSilent flach",
+                    "emphasized":true
+                },
+                {
+                    "id":"52",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: QSf 3031"
+                },
+                {
+                    "id":"53",
+                    "widgetType":"Label",
+                    "text":"Preis: 299,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"6",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"61",
+                    "widgetType":"Label",
+                    "text":"Akustische Überströmelement",
+                    "emphasized":true
+                },
+                {
+                    "id":"62",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AÜ 5001"
+                },
+                {
+                    "id":"63",
+                    "widgetType":"Label",
+                    "text":"Preis: 499,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"7",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"71",
+                    "widgetType":"Label",
+                    "text":"QuadroSilent",
+                    "emphasized":true
+                },
+                {
+                    "id":"72",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: QS 3005"
+                },
+                {
+                    "id":"73",
+                    "widgetType":"Label",
+                    "text":"Preis: 299,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"8",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"81",
+                    "widgetType":"Label",
+                    "text":"Quick Flexschlauch",
+                    "emphasized":true
+                },
+                {
+                    "id":"82",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: QF 7005"
+                },
+                {
+                    "id":"83",
+                    "widgetType":"Label",
+                    "text":"Preis: 8,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"9",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"91",
+                    "widgetType":"Label",
+                    "text":"Ansaugschalldämpfer",
+                    "emphasized":true
+                },
+                {
+                    "id":"92",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: AS 7005"
+                },
+                {
+                    "id":"93",
+                    "widgetType":"Label",
+                    "text":"Preis: 39,99€"
+                }
+            ]
+            
+        },
+        {
+            "id":"10",
+            "widgetType":"Group",
+            "widgets":[
+                {
+                    "id":"101",
+                    "widgetType":"Label",
+                    "text":"Flexibles Edelstahlrohr",
+                    "emphasized":true
+                },
+                {
+                    "id":"102",
+                    "widgetType":"Label",
+                    "text":"ArtNr.: FE 105"
+                },
+                {
+                    "id":"103",
+                    "widgetType":"Label",
+                    "text":"Preis: 59,99€"
+                }
+            ]
+            
+        }
+    ]
+}

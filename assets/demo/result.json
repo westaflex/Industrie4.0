@@ -1,0 +1,12 @@
+{
+	"type": "view",
+	"title": "Notiz Ergebnise",
+	"widgets": [
+		{	
+			"id":"1",
+            "widgetType":"Label",
+            "text":"Hier stehen die Ergebisse.",
+            "emphasized":true
+		}
+	]
+}

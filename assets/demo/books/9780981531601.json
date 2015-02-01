@@ -1,0 +1,87 @@
+{
+//	"id":"9780981531601",
+    "type": "view",
+    "title": "Programming in Scala",
+    "widgets":[
+//        {
+//            "id":"11",
+//            "widgetType":"Label",
+//            "text":"Programming in Scala",
+//            "emphasized":true
+//        },
+		{
+            "id":"11",
+            "widgetType":"Label",
+            "text":"Entwicklung und Integration nach dem Architekturstil des Web"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Autor:",
+            "labelWidth":5,
+            "value":"Martin Odersky"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Verlag:",
+            "labelWidth":5,
+            "value":"Artima"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Auflage:",
+            "labelWidth":5,
+            "value":"2 (10. Januar 2011)"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"ISBN:",
+            "labelWidth":5,
+            "value":"0981531644"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Format:",
+            "labelWidth":5,
+            "value":"Taschenbuch, 852 Seiten"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Größe:",
+            "labelWidth":5,
+            "value":"18,4 x 23,5 cm"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Preis:",
+            "labelWidth":5,
+            "value":"43,42 Euro"
+        },
+		{
+			"id":"42182337",
+			"widgetType":"Group",
+			"title": "Beschreibung",
+			"collapsible": true,
+			"widgets":[
+				{
+					"id":"11",
+					"widgetType":"TextField",
+					"text":"Scala is an object-oriented programming language for the Java Virtual Machine. In addition to being object-oriented, Scala is also a functional language, and combines the best approaches to OO and functional programming. In Italian, Scala means a stairway, or steps--indeed, Scala lets you step up to a programming environment that incorporates some of the best recent thinking in programming language design while also letting you use all your existing Java code. Artima is very pleased to publish a new edition of the best-selling book on Scala, written by the designer of the language, Martin Odersky. Co-authored by Lex Spoon and Bill Venners, this book takes a step-by-step tutorial approach to teaching you Scala. Starting with the fundamental elements of the language, Programming in Scala introduces functional programming from the practitioner's perspective, and describes advanced language features that can make you a better, more productive developer."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+//	"id":"9783898645836",
+    "type": "view",
+    "title": "REST und HTTP",
+    "widgets":[
+//        {
+//            "id":"11",
+//            "widgetType":"Label",
+//            "text":"REST und HTTP",
+//            "emphasized":true
+//        },
+		{
+            "id":"11",
+            "widgetType":"Label",
+            "text":"Entwicklung und Integration nach dem Architekturstil des Web"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Autor:",
+            "labelWidth":5,
+            "value":"Stefan Tilkov"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Verlag:",
+            "labelWidth":5,
+            "value":"dpunkt.verlag"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Auflage:",
+            "labelWidth":5,
+            "value":"3 (März 2014)"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"ISBN:",
+            "labelWidth":5,
+            "value":"978-3-86490-120-1"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Format:",
+            "labelWidth":5,
+            "value":"Broschur, ca. 300 Seiten"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Preis:",
+            "labelWidth":5,
+            "value":"36,90 Euro"
+        },
+		{
+			"id":"42182337",
+			"widgetType":"Group",
+			"title": "Beschreibung",
+			"collapsible": true,
+			"widgets":[
+				{
+					"id":"11",
+					"widgetType":"TextField",
+					"text":"Das Buch bietet eine theoretisch fundierte, vor allem aber praxistaugliche Anleitung zum professionellen Einsatz von RESTful HTTP. Es beschreibt den Architekturstil REST (Representational State Transfer) und seine Umsetzung im Rahmen der Protokolle des World Wide Web (HTTP, URIs und andere). \nEs wird gezeigt, wie man klassische Webanwendungen und Webservices so entwirft, dass sie im Einklang mit den Grundprinzipien des Web stehen und seine vielen Vorteile ausnutzen. \nNach einer kurzen Einleitung, die die Grundprinzipien vermittelt (Ressourcen, Repräsentationen, Hyperlinks, Content Negotiation), wird ein vollständiges praktisches Beispiel vorgestellt. Danach werden die einzelnen Konzepte sowie fortgeschrittene Themen wie Caching, Dokumentation und Sicherheit detailliert betrachtet. Schließlich wird eine erweiterte Form der Beispielanwendung entwickelt, um die Umsetzung der fortgeschrittenen Konzepte zu demonstrieren. Inzwischen etablierte Best Practices zu Entwurf und Implementierung werden in einem eigenen Kapitel beschrieben und diskutiert. \nNeu in der dritten Auflage ist u.a. die Behandlung von immer populärer werdenden Formaten (wie HAL, collection+json und Siren), Hinweise zur Dokumentation von Web-APIs sowie das Zusammenspiel mit Web-Oberflächen nach dem ROCA-Prinzip."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "view",
+	"title": "Preisliste",
+	"actions": [{
+		"id": "a1",
+		"actionType": "Search",
+		"contentWidget": "pricelist",
+		"text": "scan code",
+		"scanner": true,
+		"visible": true
+	}],
+	"widgets": [
+		{
+			"id": "pricelist",
+			"widgetType": "DynamicDataList",
+			"filter": "yes",
+			"dataSource": "dataSourceBooks.json"
+		}
+	]
+}

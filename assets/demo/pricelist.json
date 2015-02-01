@@ -1,0 +1,9 @@
+{
+	"type": "view",
+	"title": "Preisliste",
+	"widgets": [{
+		"id": "pricelist",
+		"widgetType": "DynamicDataList",
+		"dataSource": "dataSourceBooks.json"
+	}]
+}

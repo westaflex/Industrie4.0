@@ -1,0 +1,38 @@
+{
+	"type": "view",
+	"title": "Notizbuch",
+//	"menu": [
+//		{
+//			"id": "test2Item",
+//			"title": "Kunden Info",
+//			"callAction": "customerInfo.json"
+//		}
+//	],
+	"widgets": [
+		{	
+		    "id": "LoginGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "LoginButton",
+					"widgetType": "CallButton",
+					"callAction": "fallback://login.json",
+					"text": "Logon",
+					"enabled": false
+				}
+			]
+		},
+		{	
+		    "id": "NotepadGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "NotepadButton",
+					"widgetType": "CallButton",
+					"callAction": "fallback://notepad.json",
+					"text": "Notizen"
+				}
+			]
+		}
+	]
+}

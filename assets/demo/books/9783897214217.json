@@ -1,0 +1,87 @@
+{
+//	"id":"9783897214217",
+    "type": "view",
+    "title": "Entwurfsmuster",
+    "widgets":[
+//        {
+//            "id":"11",
+//            "widgetType":"Label",
+//            "text":"Entwurfsmuster von Kopf bis Fuß",
+//            "emphasized":true
+//        },
+		{
+            "id":"11",
+            "widgetType":"Label",
+            "text":"von Kopf bis Fuß"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Autoren:",
+            "labelWidth":5,
+            "value":"Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Verlag:",
+            "labelWidth":5,
+            "value":"O'Reilly"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Auflage:",
+            "labelWidth":5,
+            "value":"1 (1. Dezember 2005)"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"ISBN:",
+            "labelWidth":5,
+            "value":"3897214210"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Format:",
+            "labelWidth":5,
+            "value":"Broschiert, 672 Seiten"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Größe:",
+            "labelWidth":5,
+            "value":"23,6 x 20 x 4 cm"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Preis:",
+            "labelWidth":5,
+            "value":"48,00 Euro"
+		},
+		{
+			"id":"42182337",
+			"widgetType":"Group",
+			"title": "Beschreibung",
+			"collapsible": true,
+			"widgets":[
+				{
+					"id":"11",
+					"widgetType":"TextField",
+					"text":"Sie haben natürlich keine Lust, das Rad (oder gar einen Platten) neu zu erfinden, klar. Warum sich also nicht mal bei Entwurfsmustern umsehen? Entwurfsmuster sind die geballte Erfahrung von Leuten, die sich vor Ihnen denselben Schwierigkeiten beim Software-Design gegenüber sahen -- und dafür elegante, übertragbare Lösungen fanden. Mit Entwurfsmustern können Sie viel Zeit sparen ... Zeit für spannendere, komplexere oder einfach unterhaltsamere Herausforderungen.Dazu brauchen Sie folgende Informationen: Welche Entwurfsmuster sind wichtig und nützlich? Wann und warum verwende ich diese Muster? Wie lassen sich die Muster direkt auf meinen Software-Entwurf anwenden? In welchen Situationen sollte ich lieber die Finger von ihnen lassen (Vorsicht, Musteritis!)? Und auf welchen Prinzipien Objektorientierter Programmierung basieren die Muster?Jetzt müsste es noch einen Weg geben, all das zu lernen, ohne einzuschlafen! In diesem Buch wurden die neusten Forschungsergebnisse aus der Neurobiologie, der Kognitionswissenschaft und der Lerntheorie angewandt, um Ihnen Entwurfsmuster direkt ins Hirn zu spielen, und zwar so, dass es hält. So, dass Sie Spaß beim Lernen haben und danach Ihre Probleme beim Software-Design tatsächlich leichter lösen können."
+				}
+			]
+		}
+	]
+}

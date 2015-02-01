@@ -1,0 +1,20 @@
+{
+	"type": "view",
+	"title": "Preisliste",
+	"widgets": [
+		{
+            "id":"ScanButton",
+            "widgetType":"ScanButton",
+//            "maxScanCount":3,
+            "text":"Bücher Hinzufügen",
+            "icon":"photobucket",
+            "paramName":"scanIds"
+		},
+		{
+			"id": "pricelist",
+			"widgetType": "DynamicDataList",
+			"filter": "yes",
+			"dataSource": "dataSourceBooks.json"
+		}
+	]
+}

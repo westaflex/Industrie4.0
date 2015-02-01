@@ -1,0 +1,12 @@
+{
+    "type":"error",
+    "title":"Connection Fehler",
+    "widgets":[
+        {
+            "id": "1",
+            "widgetType": "TextField",
+			"text": "Der Server ist nicht erreichbar, bitte prüfen sie ihrer Internetverbindung und versuchen sie es erneut.",
+			"lines": 6
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+	"type": "notepad",
+	"title": "Notizen",
+	"startAction":"result.json",
+	"longClickAction":"result.json",
+//	"actions": [{
+//		"id": "a1",
+//		"actionType": "Search",
+//		"contentWidget": "pricelist",
+//		"text": "scan code",
+//		"scanner": true,
+//		"visible": true
+//	}],
+	"widgets": [
+//		{
+//			"id": "PriceListButton",
+//			"widgetType": "CallButton",
+//			"callAction": "search.json",
+//			"text": "Bücher Suche"
+//		}
+	]
+}

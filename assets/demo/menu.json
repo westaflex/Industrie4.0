@@ -1,0 +1,62 @@
+{
+	"type": "view",
+	"title": "Bücher Shop",
+//	"menu": [
+//		{
+//			"id": "test2Item",
+//			"title": "Kunden Info",
+//			"callAction": "customerInfo.json"
+//		}
+//	],
+	"widgets": [
+		{	
+		    "id": "PriceListGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "PriceListButton",
+					"widgetType": "CallButton",
+					"callAction": "pricelist.json",
+					"longClickCallAction": "customerInfo.json",
+					"text": "Preisliste"
+				}
+			]
+		},
+		{	
+		    "id": "PriceListGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "PriceListButton",
+					"widgetType": "CallButton",
+					"callAction": "search.json",
+					"text": "Bücher Suche"
+				}
+			]
+		},
+		{	
+		    "id": "PriceListGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "PriceListButton",
+					"widgetType": "CallButton",
+					"callAction": "multiSearch.json",
+					"text": "Multi Scan Suche"
+				}
+			]
+		},
+		{	
+		    "id": "NotepadGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "NotepadButton",
+					"widgetType": "CallButton",
+					"callAction": "notepad.json",
+					"text": "Notizen"
+				}
+			]
+		}
+	]
+}

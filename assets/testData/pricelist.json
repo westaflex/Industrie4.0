@@ -1,0 +1,22 @@
+{
+	"id": "2",
+	"type": "view",
+	"title": "Preisliste",
+	"searchBar": "pricelist",
+	"searchText": "Artikel",
+	"searchScanner": true,
+	"searchVisible": false,
+	"actions": [{
+		"id": "a1",
+		"actionType": "Search",
+		"contentWidget": "pricelist",
+		"text": "Artikel",
+		"scanner": true,
+		"visible": false
+	}],
+	"widgets": [{
+		"id": "pricelist",
+		"widgetType": "DynamicDataList",
+		"dataSource": "pricelistData.json"
+	}]
+}

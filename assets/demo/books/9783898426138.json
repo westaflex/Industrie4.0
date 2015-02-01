@@ -1,0 +1,87 @@
+{
+//	"id":"9783898426138",
+    "type": "view",
+    "title": "Struts 1.2",
+    "widgets":[
+//        {
+//            "id":"11",
+//            "widgetType":"Label",
+//            "text":"Struts 1.2",
+//            "emphasized":true
+//        },
+		{
+            "id":"11",
+            "widgetType":"Label",
+            "text":"Ein Tutorial für Java-Entwickler"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Autor:",
+            "labelWidth":5,
+            "value":"Stephan Wiesner"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Verlag:",
+            "labelWidth":5,
+            "value":"Galileo Computing"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Auflage:",
+            "labelWidth":5,
+            "value":"2 (28. Mai 2005)"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"ISBN:",
+            "labelWidth":5,
+            "value":"3898426130"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Format:",
+            "labelWidth":5,
+            "value":"Gebundene Ausgabe, 271 Seiten"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Größe:",
+            "labelWidth":5,
+            "value":"24,4 x 17,4 x 2,4 cm"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Preis:",
+            "labelWidth":5,
+            "value":"24,90 Euro"
+        },
+		{
+			"id":"42182337",
+			"widgetType":"Group",
+			"title": "Beschreibung",
+			"collapsible": true,
+			"widgets":[
+				{
+					"id":"11",
+					"widgetType":"TextField",
+					"text":"2. überarbeitete und aktualisierte Auflage zu Struts 1.2! Dieses Buch bietet eine kompakte Struts-Einführung in Form eines Tutorials. Hier gibt es Theorie immer nur mit Praxis. Mit Ihnen zusammen wird ein Webshop entwickelt; der Code wird jederzeit kommentiert. Aufgaben samt Lösungen runden diesen Struts-Kurs ab. Java-Kenntnisse werden vorausgesetzt."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "type":"error",
+    "title":"Ungültiges Zertifikat",
+    "widgets":[
+        {
+            "id": "1",
+            "widgetType": "TextField",
+			"text": "Das vom Server verwendete Zertifikat kann ist ungültig. Vielleicht ist das Zertificat abgelaufen oder die Verbindung läuft über einen Proxy. Bitte prüfen sie ob eine Update für diese App verfügbar ist.",
+			"lines": 3
+        }
+    ]
+}

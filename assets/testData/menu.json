@@ -1,0 +1,77 @@
+{
+	"id": "1",
+	"type": "view",
+	"title": "Info App",
+	"menu": [
+		{
+			"id": "test2Item",
+			"title": "Kunden Info",
+			"callAction": "customerInfo.json"
+		}
+	],
+	"widgets": [
+		{	
+		    "id": "PriceListGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "PriceListButton",
+					"widgetType": "CallButton",
+					"callAction": "pricelist.json",
+					"longClickCallAction": "customerInfo.json",
+					"text": "Preisliste"
+				}
+			]
+		},
+		{
+		    "id": "CustomerInfoGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "CustomerInfoListButton",
+					"widgetType": "CallButton",
+					"callAction": "customerInfo.json",
+					"text": "Kunden Info"
+				}
+			]
+		},
+		{
+		    "id": "TabDemoGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "TabDemoButton",
+					"widgetType": "CallButton",
+					"callAction": "tabs.json",
+					"text": "Tab Demo"
+				}
+			]
+		},
+		{
+		    "id": "ColumnGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "ColumnButton",
+					"widgetType": "CallButton",
+					"callAction": "columns.json",
+					"text": "Columns"
+				}
+			]
+		},
+		{
+		    "id": "WestaflexLiveGroup",
+			"widgetType": "Group",
+			"widgets": [
+				{
+					"id": "WestaflexLiveButton",
+					"widgetType": "CallButton",
+					"callAction": "westaNet://app01002ws.pgm?view=AppMenu&context=W01&sid=12335200094000007",
+					"text": "Westaflex Live",
+					"backgroundColor": "#FF0000",
+					"textColor":"#FFFFFF"
+				}
+			]
+		}
+	]
+}

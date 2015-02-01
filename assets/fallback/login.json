@@ -1,0 +1,9 @@
+{
+    "type":"login",
+    "protocolVersion":2,
+    "loginSuccess":true,
+    "sessionId":"qwertz2345sdfghj12",
+    "sessionTimeout":1800,
+    "startAction":"fallback://menu.json",
+    "errorMessage":""
+}

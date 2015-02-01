@@ -1,0 +1,35 @@
+{
+    "type":"callSources",
+    "callSources":{
+        "westaNet":{
+            "callSourceType":"HTTPS",
+            "loginAction":"app01001ws.pgm",
+            "serverUrl":"https://webext.westa.net/pextCD2lib/",
+            "keystorePassword":"RWGsPBKT9DxKFZeP",
+            "keystoreFilename":"westa_keystore.bks"
+//            ,"isDefault":true
+        },
+        "test":{
+            "callSourceType":"ASSET",
+            "loginAction":"login.json",
+            "folder":"testData"
+        },
+        "demo":{
+            "callSourceType":"ASSET",
+            "loginAction":"login.json",
+            "folder":"demo"
+        },
+        "demoServer":{
+        	"callSourceType":"HTTPS",
+            "loginAction":"login.json",
+            "serverUrl":"http://172.23.0.115:9000/api/",
+            "keystorePassword":"RWGsPBKT9DxKFZeP",
+            "keystoreFilename":"westa_keystore.bks"
+        },
+        "fallback":{
+            "callSourceType":"ASSET",
+            "loginAction":"login.json",
+            "folder":"fallback"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+//	"id":"9783826655487",
+    "type": "view",
+    "title": "Clean Code",
+    "widgets":[
+//        {
+//            "id":"11",
+//            "widgetType":"Label",
+//            "text":"Clean Code",
+//            "emphasized":true
+//        },
+		{
+            "id":"11",
+            "widgetType":"Label",
+            "text":"Refactoring, Patterns, Testen und Techniken für sauberen Code"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Autor:",
+            "labelWidth":5,
+            "value":"Robert C. Martin"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Verlag:",
+            "labelWidth":5,
+            "value":"mitp"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Auflage:",
+            "labelWidth":5,
+            "value":"1 (9. März 2009)"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"ISBN:",
+            "labelWidth":5,
+            "value":"3826655486"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Format:",
+            "labelWidth":5,
+            "value":"Broschiert, 480 Seiten"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Größe:",
+            "labelWidth":5,
+            "value":"24 x 17 x 2,6 cm"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Preis:",
+            "labelWidth":5,
+            "value":"39,95 Euro"
+        },
+		{
+			"id":"42182337",
+			"widgetType":"Group",
+			"title": "Beschreibung",
+			"collapsible": true,
+			"widgets":[
+				{
+					"id":"11",
+					"widgetType":"TextField",
+					"text":"Aus dem Inhalt:\nLernen Sie, guten Code von schlechtem zu unterscheiden\nSauberen Code schreiben und schlechten Code in guten umwandeln\nAussagekräftige Namen sowie gute Funktionen, Objekte und Klassen erstellen\nCode so formatieren, strukturieren und kommentieren, dass er bestmöglich lesbar ist\nEin vollständiges Fehler-Handling implementieren, ohne die Logik des Codes zu verschleiern\nUnit-Tests schreiben und Ihren Code testgesteuert entwickeln\nSelbst schlechter Code kann funktionieren. Aber wenn der Code nicht sauber ist, kann er ein Entwicklungsunternehmen in die Knie zwingen. Jedes Jahr gehen unzählige Stunden und beträchtliche Ressourcen verloren, weil Code schlecht geschrieben ist. Aber das muss nicht sein.\nMit Clean Code präsentiert Ihnen der bekannte Software-Experte Robert C. Martin ein revolutionäres Paradigma, mit dem er Ihnen aufzeigt, wie Sie guten Code schreiben und schlechten Code überarbeiten. Zusammen mit seinen Kollegen von Object Mentor destilliert er die besten Praktiken der agilen Entwicklung von sauberem Code zu einem einzigartigen Buch. So können Sie sich die Erfahrungswerte der Meister der Software-Entwicklung aneignen, die aus Ihnen einen besseren Programmierer machen werden – anhand konkreter Fallstudien, die im Buch detailliert durchgearbeitet werden.\nSie werden in diesem Buch sehr viel Code lesen. Und Sie werden aufgefordert, darüber nachzudenken, was an diesem Code richtig und falsch ist. Noch wichtiger: Sie werden herausgefordert, Ihre professionellen Werte und Ihre Einstellung zu Ihrem Beruf zu überprüfen.\nClean Code besteht aus drei Teilen:\n\nDer erste Teil beschreibt die Prinzipien, Patterns und Techniken, die zum Schreiben von sauberem Code benötigt werden.\nDer zweite Teil besteht aus mehreren, zunehmend komplexeren Fallstudien. An jeder Fallstudie wird aufgezeigt, wie Code gesäubert wird – wie eine mit Problemen behaftete Code-Basis in eine solide und effiziente Form umgewandelt wird.\nDer dritte Teil enthält den Ertrag und den Lohn der praktischen Arbeit: ein umfangreiches Kapitel mit Best Practices, Heuristiken und Code Smells, die bei der Erstellung der Fallstudien zusammengetragen wurden. Das Ergebnis ist eine Wissensbasis, die beschreibt, wie wir denken, wenn wir Code schreiben, lesen und säubern.\nDieses Buch ist ein Muss für alle Entwickler, Software-Ingenieure, Projektmanager, Team-Leiter oder Systemanalytiker, die daran interessiert sind, besseren Code zu produzieren."
+				}
+			]
+		}
+	]
+}

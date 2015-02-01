@@ -1,0 +1,87 @@
+{
+//	"id":"9783898644785",
+    "type": "view",
+    "title": "Scrum",
+    "widgets":[
+//        {
+//            "id":"11",
+//            "widgetType":"Label",
+//            "text":"Scrum",
+//            "emphasized":true
+//        },
+		{
+            "id":"11",
+            "widgetType":"Label",
+            "text":"Agiles Projektmanagement erfolgreich einsetzen"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Autor:",
+            "labelWidth":5,
+            "value":"Roman Pichler"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Verlag:",
+            "labelWidth":5,
+            "value":"dpunkt.verlag"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Auflage:",
+            "labelWidth":5,
+            "value":"1 (Dezember 2007)"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"ISBN:",
+            "labelWidth":5,
+            "value":"3898644782"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Format:",
+            "labelWidth":5,
+            "value":"Broschiert, 184 Seiten"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Größe:",
+            "labelWidth":5,
+            "value":"23,6 x 16,4 x 1,4 cm"
+        },
+		{
+            "id":"12",
+            "widgetType":"LabelValuePair",
+            "type":"TEXT",
+            "label":"Preis:",
+            "labelWidth":5,
+            "value":"29,00 Euro"
+        },
+		{
+			"id":"42182337",
+			"widgetType":"Group",
+			"title": "Beschreibung",
+			"collapsible": true,
+			"widgets":[
+				{
+					"id":"11",
+					"widgetType":"TextField",
+					"text":"Scrum ist ein agiles Projektmanagementframework, das sich auf alle Arten der Softwareentwicklung anwenden lässt. Richtig eingesetzt hilft Scrum, Kundenzufriedenheit und Wertschöpfung nachhaltig zu steigern.\n\nDieses Buch vermittelt Ihnen das notwendige Wissen, um Scrum erfolgreich anzuwenden. Es beschreibt Scrum umfassend, systematisch und leicht verständlich. Dabei werden die folgenden Themen behandelt:\n\n- Scrum-Rollen, ScrumMaster, Product Owner und Team, und der Scrum-Prozess\n\n- Anforderungsbeschreibung und -management in Scrum inkl. Produkt Backlog und User Stories\n\n- Releasemanagement inkl. Schätzen, Planen und Verfolgen\n\n- Das Arbeiten mit Sprints inkl. Eigenschaften von Sprints, die Vorbereitung und Durchführung von Sprint-Planungssitzungen, das Sprint Backlog, Daily Scrum, Sprint-Review und -Retrospektive sowie das Verfolgen und Optimieren des Sprint-Fortschritts\n\n- Die Anwendung von Scrum für große und verteilte Projekte\n\n- Die unternehmensweite Einführung von Scrum \n\nDas Buch wendet sich an Einsteiger in Scrum und agiles Projektmanagement sowie an Fortgeschrittene bzw. Leser, die sich auf Scrum-Zertifizierungen wie Certified ScrumMaster und Certified Scrum Product Owner vorbereiten.\n\n'I've known and worked with Roman for years with Scrum, so the book is full of practical advice. This book not only faithfully documents Scrum, it also provides a state of the art view of the most current thinking about using Scrum.'\n(aus dem Geleitwort von Ken Schwaber)"
+				}
+			]
+		}
+	]
+}
